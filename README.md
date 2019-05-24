@@ -21,7 +21,7 @@ bbr.sh
 ======
 
 - Description: Auto install latest kernel for TCP BBR
-- wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh && chmod +x bbr.sh && ./bbr.sh
+- wget --no-check-certificate https://github.com/SatoshiAkiraka/across/raw/master/bbr.sh && chmod +x bbr.sh && ./bbr.sh
 
 kms.sh
 ======
